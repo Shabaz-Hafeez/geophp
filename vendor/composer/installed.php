@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'shahbazhafeez/geophp',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'b13022085400dd26c6e2ed51c72677dc3b2738e3',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -236,9 +236,9 @@
             'dev_requirement' => true,
         ),
         'shahbazhafeez/geophp' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'b13022085400dd26c6e2ed51c72677dc3b2738e3',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
