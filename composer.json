@@ -24,5 +24,8 @@
         "test": "phpunit"
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "extra": {
+        "version": "1.0.0-alpha1"
+    }
 }
