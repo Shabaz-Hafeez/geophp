@@ -1,0 +1,27 @@
+{
+    "name": "shahbazhafeez/geophp",
+    "description": "Advanced geometry operations in PHP",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Shahbaz Hafeez",
+            "email": "shahbazhafeez888@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "GeoPHP\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "scripts": {
+        "test": "phpunit"
+    },
+    "minimum-stability": "stable"
+}
