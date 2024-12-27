@@ -3,7 +3,7 @@
         'name' => 'shahbazhafeez/geophp',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'b13022085400dd26c6e2ed51c72677dc3b2738e3',
+        'reference' => 'f1f8ae9bee2d57eb14dc87ae58db30140d8d4823',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -238,7 +238,7 @@
         'shahbazhafeez/geophp' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'b13022085400dd26c6e2ed51c72677dc3b2738e3',
+            'reference' => 'f1f8ae9bee2d57eb14dc87ae58db30140d8d4823',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
